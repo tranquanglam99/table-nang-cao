@@ -1,0 +1,22 @@
+table{
+    border-top: 20px solid orange;
+    border-left: 20px solid orange;
+    border-right: 20px solid orange;
+    border-bottom:  20px solid orange;
+    border-collapse: collapse;
+    background-color: orange
+}
+
+.class1{
+    background-color: white;
+    width: 80px;
+    height: 80px;
+}
+.class2{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+}
+.class3{
+    padding-right: 10px;
+}
